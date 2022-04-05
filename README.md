@@ -1,2 +1,2 @@
-# Kurz_Ako_sa_Stat_Datovym_ANALYTIKom_Python-
+# Kurz Ako sa stať Dátovým ANALYTIKom v Pythone
 Ako sa stať Dátovým Analytikom v Pythone 
